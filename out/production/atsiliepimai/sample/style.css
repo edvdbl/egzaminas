@@ -1,0 +1,19 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#gridPane{
+    -fx-background-color: linear-gradient(goldenrod, gold);
+    -fx-border-color: white;
+    -fx-border-radius: none;
+    -fx-padding: 10 10 10 10;
+    -fx-background-radius: 20;
+}
+
+#buttons{
+//-fx-background-radius: 30, 30, 30, 30;
+//-fx-padding: 10px 10px 10px 10px;
+    -fx-border-color: blue;
+    -fx-border-width: 2px;
+    -fx-background-color: linear-gradient(gold, goldenrod);
+}
+#text{
+    -fx-fill: linear-gradient(Gold, GoldenRod);
+}
